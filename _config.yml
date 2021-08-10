@@ -1,0 +1,87 @@
+theme: jekyll-theme-minimal
+title: 'PacBio Iso-Seq Workshop Online'
+show_downloads: True
+google_analytics: True
+navigation:
+  - title: Home
+    url: /
+
+  - heading: Introduction
+  - title: Intro to the Workshop
+    url: base/welcome
+  - title: Schedule
+    url: base/schedule
+
+  - heading: Support
+  - title: Using Slack in this workshop
+    url: base/slack
+  - title: Using Zoom in this workshop
+    url: base/zoom
+  - title: Cheat Sheets
+    url: base/cheatSheetIndex
+  - title: Software and Links
+    url: software_scripts/software
+
+  - heading: Talks
+  - title: Perspective on Bioinformatics/Genomics?
+    url: https://raw.githubusercontent.com/ucdavis-bioinformatics-training/ucdavis-bioinformatics-training.presentations/master/genomics/Genomics_a_perspective_PB.pdf
+  - title: Iso-Seq Library Prep
+    url: https://raw.githubusercontent.com/ucdavis-bioinformatics-training/ucdavis-bioinformatics-training.presentations/master/isoseq/Kristin_Mars_Library_Prep.pdf
+
+  - heading: Command Line Interface
+  - title: Logging In and Transferring Files
+    url: CLI/logging-in
+  - title: Intro CLI
+    url: CLI/command-line-intro
+  - title: Advanced CLI
+    url: CLI/advanced-command-line
+  - title: Advanced CLI Challenge Solutions
+    url: CLI/advanced-challenge-solutions
+  - title: Clusters and Modules
+    url: CLI/cluster
+
+  - heading: Data Reduction
+  - title: PacBio data
+    url: pacbio_data/pacbio_data
+
+  - heading: Dr. Liz Tseng
+  - title: SMRT Sequencing - How it Works
+    url: https://raw.githubusercontent.com/ucdavis-bioinformatics-training/ucdavis-bioinformatics-training.presentations/master/isoseq/liz/1-Liz-Intro%20to%20PacBio%20and%20IsoSeq.pdf
+  - title: Using the Iso-Seq Application on SMRT Link and BioConda
+    url: https://raw.githubusercontent.com/ucdavis-bioinformatics-training/ucdavis-bioinformatics-training.presentations/master/isoseq/liz/2-Liz-Iso-Seq%20with%20SL%20and%20BioConda.pdf
+  - title: IsoPhase - Isoform-Level Phasing
+    url: https://raw.githubusercontent.com/ucdavis-bioinformatics-training/ucdavis-bioinformatics-training.presentations/master/isoseq/liz/5-Liz-IsoPhase%20and%20Cogent.pdf
+  - title: Single-Cell RNA Sequencing using the Iso-Seq Method
+    url: https://raw.githubusercontent.com/ucdavis-bioinformatics-training/ucdavis-bioinformatics-training.presentations/master/isoseq/liz/6-Liz-Single%20Cell.pdf
+  - title: Tutorial
+    url: https://github.com/Magdoll/cDNA_Cupcake/wiki/Iso-Seq-Bioinformatics-Tutorial
+
+  - heading: Richard Kuo
+  - title:  Transcriptome Annotation by Modular Algorithms TAMA
+    url: https://raw.githubusercontent.com/ucdavis-bioinformatics-training/ucdavis-bioinformatics-training.presentations/master/isoseq/richard/uc_davis_isoseq_workshop_tama_v1.pdf
+  - title: Tutorial
+    url: https://github.com/GenomeRIK/workshop_tutorials/wiki/UC-Davis-TAMA-Tutorial-1
+
+  - heading: Conesa Lab
+  - title: Installing tappAS
+    url: https://app.tappas.org/downloads/
+  - title: Quality Control and Characterization of LR Transcriptomes
+    url: https://raw.githubusercontent.com/ucdavis-bioinformatics-training/ucdavis-bioinformatics-training.presentations/master/isoseq/consealab/SQANTI3_tutorial_UCDavis_Lorena.pdf
+  - title: SQANTI3 hands on and IsoAnnot
+    url: https://raw.githubusercontent.com/ucdavis-bioinformatics-training/ucdavis-bioinformatics-training.presentations/master/isoseq/consealab/UCDavis_SQANTI3_handsOn_IsoAnnot%20.pdf
+  - title: Hands-on tappAS
+    url: https://raw.githubusercontent.com/ucdavis-bioinformatics-training/ucdavis-bioinformatics-training.presentations/master/isoseq/consealab/5.tappAS_HO.pdf
+
+  - heading: ETC
+  - title: Closing thoughts
+    url: base/closing
+  - title: Workshop Photos
+    url: photos/photos
+  - title: Github page
+    url: https://github.com/ucdavis-bioinformatics-training/2020-september-isoseq
+  - title: Biocore website
+    url: http://bioinformatics.ucdavis.edu
+  - title: Pacific Biosciences website
+    url: https://www.pacb.com/
+  - title: Conesa lab website
+    url: http://conesalab.org
