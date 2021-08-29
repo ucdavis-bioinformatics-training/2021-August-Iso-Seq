@@ -1,17 +1,15 @@
 # PacBio Data
-
 What might you expect to receive from a PacBio Sequencing Provider?
-
-For Isoseq data, you could receive raw bam files, ccs result, OR isoseq pipeline within smrtlink results.
-
-We would recommend you start from the CCS files. The SMRTlink isoseq run is ok if you don't have compute or are new to Bioinformatics (lack of ability), however doing the isoseq analysis pipeline yourself provides you with greater control over the output.
 
 ## PacBio Subread and Scraps
 
 <img src="pacbio_figures/zmwread.png" alt="zmwread" width="80%"/>
 
-PacBio processes each ZMW's original full polymerase read on the Sequel II for adapters and optionally barcodes producing a scraps (low quality regions, adapter sequence and barcode sequence) and subreads (the insert). These data are now represented within a _unaligned_ bam file. See [File Types](./filetypes)
+For Isoseq data, you could receive raw bam files, ccs result, OR isoseq pipeline within smrtlink results.
 
+We would recommend you start from the CCS files. The SMRTlink isoseq run is ok if you don't have compute or are new to Bioinformatics (lack of ability), however doing the isoseq analysis pipeline yourself provides you with greater control over the output.
+
+PacBio processes each ZMW's original full polymerase read on the Sequel II for adapters and optionally barcodes producing a scraps (low quality regions, adapter sequence and barcode sequence) and subreads (the insert). The Sequel IIe will skip these steps and give only the CCS files. Both data are now represented within a _unaligned_ bam file. See [File Types](./filetypes)
 
 ##  Creating a Project Directory
 
