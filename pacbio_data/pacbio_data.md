@@ -42,7 +42,7 @@ mkdir -p /share/workshop/isoseq_workshop/$USER/view_data
     3. 01-ccs, this is the ccs output, not by smrtline but rather by the command line.
 
 
-2. Lets tale a look at the primary output
+2. Lets take a look at the primary output
 
     ```bash
     ls -lah /share/workshop/isoseq_workshop/$USER/view_data/r64069_20200616_170349/C1/3_C01_Primary
