@@ -52,6 +52,11 @@ where 'username' is replaced with your username. Be sure to remove the square br
 
 The main commands we will be using are srun, sbatch, squeue, scancel, and sacct. First, log into the head node (tadpole.genomecenter.ucdavis.edu).
 
+
+    mkdir /share/workshop/isoseq_workshop/$USER
+    cd /share/workshop/isoseq_workshop/$USER
+
+
 **2a\.** ['srun'](https://slurm.schedmd.com/srun.html) is used to run a job interactively. We most often use it to start an interactive session on a compute node. Take a look at the options to srun:
 
     srun --help
