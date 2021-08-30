@@ -12,7 +12,7 @@ All posted times are **Pacific** time zone. At least one break will be provided 
 **1:00 am**  Introduction to the command line __Bioinformatics Core__
 **2:30 pm**  Cluster computing and modules __Bioinformatics Core__
 **3:15 pm**  Examining PacBio data (lecture and hands on) __Bioinformatics Core__
-**5:00 pm**  Zoom session ends
+**5:00 pm**  Zoom session ends  
 
 <!-- ### Tuesday, August 31
 
