@@ -86,7 +86,7 @@ The first line tells sbatch what scripting language (bash here) the rest of the 
 
 
     cd /share/workshop/isoseq_workshop/$USER
-    wget https://raw.githubusercontent.com/ucdavis-bioinformatics-training/2020-september-isoseq/master/software_scripts/scripts/template.slurm
+    wget https://raw.githubusercontent.com/ucdavis-bioinformatics-training/2021-August-Iso-Seq/master/software_scripts/scripts/template.slurm
     cat template.slurm
     sbatch template.slurm
 
