@@ -25,7 +25,7 @@ All posted times are **Pacific** time zone. At least one break will be provided 
 **12:00 pm** Lunch  
 **1:00 pm**  Special Iso-Seq topic (TBA) __Dr. Liz Tseng, PacBio__  
 **2:45 pm**  Break  
-**3:15 pm**  TAMA __Richard Kuo, Roslin Institute__  
+**3:00 pm**  TAMA __Richard Kuo, Roslin Institute__  
 **5:00 pm**  Zoom session ends  
 
 ### Wednesday, September 1
@@ -39,5 +39,5 @@ All posted times are **Pacific** time zone. At least one break will be provided 
 **2:00 pm**  tappAS __Bioinformatics Core__  
 **2:45 pm**  Break  
 **3:00 pm**  tappAS __Bioinformatics Core__  
-**4:00 pm**  Experimental design and closing thoughts (lecture) __Bioinformatics Core__  
+**4:30 pm**  Closing thoughts  __Bioinformatics Core__  
 **5:00  pm**  Zoom session ends  
