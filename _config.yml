@@ -28,25 +28,11 @@ navigation:
   - title: Iso-Seq Library Prep
     url: https://raw.githubusercontent.com/ucdavis-bioinformatics-training/ucdavis-bioinformatics-training.presentations/master/isoseq/Kristin_Mars_Library_Prep.pdf
 
-  # - heading: Command Line Interface
-  # - title: Logging In and Transferring Files
-  #   url: CLI/logging-in
-  # - title: Intro CLI
-  #   url: CLI/command-line-intro
-  # - title: Advanced CLI
-  #   url: CLI/advanced-command-line
-  # - title: Advanced CLI Challenge Solutions
-  #   url: CLI/advanced-challenge-solutions
-  # - title: Clusters and Modules
-  #   url: CLI/cluster
-
   - heading: Prerequisites
   - title: Logging In
     url: intro/logging-in
   - title: CLI
     url: intro/command-line-intro
-  # - title: R
-  #   url: intro/Intro2R
   - title: Cluster Computing
     url: intro/cluster
 
