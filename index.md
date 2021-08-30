@@ -3,7 +3,7 @@ All documentation for the workshop is best viewed from the github.io pages
 [Documentation](https://ucdavis-bioinformatics-training.github.io/2021-August-Iso-Seq/)
 
 PacBio Iso-Seq Workshop Online  
-Aug. 29, 2021, 9 a.m. - Aug. 31, 2021, 5 p.m.  
+Aug. 30, 2021, 9 a.m. - Sept. 1, 2021, 5 p.m.  
 Organizer - Bioinformatics Core  
 Contact - UC Davis Bioinformatics Core, training.bioinformatics@ucdavis.edu
 
