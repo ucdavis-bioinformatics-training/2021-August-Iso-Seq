@@ -1,9 +1,9 @@
 All documentation for the workshop is best viewed from the github.io pages
 
-[Documentation](https://ucdavis-bioinformatics-training.github.io/2020-september-isoseq/)
+[Documentation](https://ucdavis-bioinformatics-training.github.io/2021-August-Iso-Seq/)
 
 PacBio Iso-Seq Workshop Online  
-Sep. 30, 2020, 9 a.m. - Oct. 02, 2020, 5 p.m.  
+Aug. 29, 2021, 9 a.m. - Aug. 31, 2021, 5 p.m.  
 Organizer - Bioinformatics Core  
 Contact - UC Davis Bioinformatics Core, training.bioinformatics@ucdavis.edu
 
@@ -38,6 +38,3 @@ Where can I find more information, including your policies?  ... Go to our websi
 If you have any questions, please don’t hesitate to contact us at training.bioinformatics@ucdavis.edu
 
 
-### Register
-
-https://registration.genomecenter.ucdavis.edu/events/Iso-Seq_2020/
