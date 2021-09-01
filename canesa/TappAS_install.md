@@ -30,5 +30,8 @@ tappAS is a Java application and requires few prerequisites.
   I did both, I started with sourcing the R script, got _some_ things installed and then let the app finish up.
 
 
-Finally, 
+Finally,
 * Download [example data](https://app.tappas.org/resources/downloads/tutorials/tappAS_projectData.zip)
+
+
+Additional Tutorials for tappAS can be found [here](https://app.tappas.org/tutorials/)
