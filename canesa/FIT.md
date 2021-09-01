@@ -20,7 +20,7 @@ When working with long-read data, you typically obtain full-length transcripts w
 * Labels are both for coding (ie PFAM domains) as well as for non-coding (ie microRNA binding sites) functions.
 * Identify Nonsense-mediated mRNA decay (NMD) transcripts.
 
-<img src="./figures/isoannot.png" alt="isoannot" width="60%"/>
+<img src="./figures/isoannot.png" alt="isoannot" width="90%"/>
 
 The softare is available on the [TappAS website](https://isoannot.tappas.org/)
 
@@ -66,7 +66,7 @@ There are two ways to produce a TappAS compatable gff,
   ```
 
 
-  --isoAnnotLite        Run isoAnnot Lite to output a tappAS-compatible gff3 file
+  --isoAnnotLite        Run isoAnnot Lite to output a tappAS-compatible gff3 file    
   --gff3 GFF3           Precomputed tappAS species specific GFF3 file. It will serve as reference to transfer functional attributes
 
 
@@ -97,28 +97,14 @@ For the dataset we ran SQANTI on:
 Example: PB.9618.5
 • Information in GTF after running SQANTI3
 
-<img src="./figures/preIsoAnnot.png" alt="pre isoannot" width="60%"/>
+<img src="./figures/preIsoAnnot.png" alt="pre isoannot" width="90%"/>
 
 Example: PB.9618.5
 • Information in GFF3 after running SQANTI3+isoAnnotLite
 
-<img src="./figures/postIsoAnnot.png" alt="post isoannot" width="60%"/>
+<img src="./figures/postIsoAnnot.png" alt="post isoannot" width="90%"/>
 
 Example: PB.9618.5
 • Information in GFF3 after running SQANTI3+isoAnnotLite loaded into tappAS
 
-<img src="./figures/example.png" alt="example isoannot" width="60%"/>
-
-
-## tappAS Installation
-
-1. Analize diversity of isoform annotations.
-2. Calculate differential isoform usage.
-3. Find pathways and functional domains affected by splicing.
-4. Evaluate differences at UTRs.
-
-<img src="./figures/TappAS.png" alt="TappAS" width="60%"/>
-
-The softare is available on the [TappAS website](https://app.tappas.org/)
-
-The github repository is [here](https://github.com/ConesaLab/tappAS)
+<img src="./figures/example.png" alt="example isoannot" width="90%"/>

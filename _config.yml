@@ -56,10 +56,10 @@ navigation:
     url: ./pdfs/uc_davis_isoseq_workshop_tama_v1.pdf
 
   - heading: Conesa Lab
-  - title: Installing tappAS
-    url: https://app.tappas.org/downloads/
   - title: IsoAnnot and IsoAnnotLite
     url: ./canesa/FIT
+  - title: TappAS Install
+    url: ./canesa/TappAS_install
   - title: Hands-on tappAS
     url: https://raw.githubusercontent.com/ucdavis-bioinformatics-training/ucdavis-bioinformatics-training.presentations/master/isoseq/consealab/5.tappAS_HO.pdf
 
