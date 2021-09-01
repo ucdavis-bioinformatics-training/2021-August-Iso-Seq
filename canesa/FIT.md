@@ -1,4 +1,4 @@
-# IsoAnnot and TappAS Install
+# IsoAnnot and IsoAnnot Lite
 
 SQANTI, IsoAnnot and TappAS are all a part of the Functional Iso-Transcriptomics (FIT) toolset.
 
