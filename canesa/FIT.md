@@ -66,7 +66,7 @@ There are two ways to produce a TappAS compatable gff,
   ```
 
 
-  --isoAnnotLite        Run isoAnnot Lite to output a tappAS-compatible gff3 file    
+  --isoAnnotLite        Run isoAnnot Lite to output a tappAS-compatible gff3 file
   --gff3 GFF3           Precomputed tappAS species specific GFF3 file. It will serve as reference to transfer functional attributes
 
 
@@ -75,11 +75,12 @@ There are two ways to produce a TappAS compatable gff,
   Download the IsoAnnot python script from [here](https://isoannot.tappas.org/isoannot-lite/)
 
 
-  The command then is as follows:
+  The command then _looks_ like the following:
 
   ```
   python IsoAnnotLite.py my_corrected.gtf my_classification.txt my_junctions.txt -gff3 tappAS.gff3 -novel -o output_name_newGFF3 -stdout output_name_summaryResults
   ```
+
   Argument -novel allows IsoAnnotLite to compare every transcript against all the transcript that belong to the same gene. This procedure takes a little longer but gets better results
 
 ### Excercises
