@@ -26,8 +26,8 @@ Now in our 14th year of training researchers, the UC Davis Bioinformatics Core i
 
 | :------------- |:-------------:|
 |Sep 13 - Sep 17, 2021  | Virtual [RNA-Seq Analysis](https://registration.genomecenter.ucdavis.edu/events/RNAseq_september_2021/)   |
-|Oct 18,20,22, 2021  | Introduction to the Command Line for Bioinformatics |
-|Oct 25,27,29, 2021  | Introduction to R for Bioinformatics |
+|Oct 18,20,22, 2021  | Virtual [Introduction to the Command Line for Bioinformatics](https://registration.genomecenter.ucdavis.edu/events/cli_oct_2021/) |
+|Oct 25,27,29, 2021  | Virtual [Introduction to R for Bioinformatics](https://registration.genomecenter.ucdavis.edu/events/r_oct_2021/) |
 |Dec 13 - Dec 17, 2021  | @Davis [Metagenomics and Metatranscriptomics](https://registration.genomecenter.ucdavis.edu/events/metagenomics_december_2021/)   |
 
 For more information on these and other events, and to register, go to [https://registration.genomecenter.ucdavis.edu/](https://registration.genomecenter.ucdavis.edu/)
