@@ -62,10 +62,8 @@ navigation:
   - heading: Conesa Lab
   - title: Installing tappAS
     url: https://app.tappas.org/downloads/
-  - title: Quality Control and Characterization of LR Transcriptomes
-    url: https://raw.githubusercontent.com/ucdavis-bioinformatics-training/ucdavis-bioinformatics-training.presentations/master/isoseq/consealab/SQANTI3_tutorial_UCDavis_Lorena.pdf
-  - title: SQANTI3 hands on and IsoAnnot
-    url: https://raw.githubusercontent.com/ucdavis-bioinformatics-training/ucdavis-bioinformatics-training.presentations/master/isoseq/consealab/UCDavis_SQANTI3_handsOn_IsoAnnot%20.pdf
+  - title: IsoAnnot and IsoAnnotLite
+    url: ./canesa/FIT
   - title: Hands-on tappAS
     url: https://raw.githubusercontent.com/ucdavis-bioinformatics-training/ucdavis-bioinformatics-training.presentations/master/isoseq/consealab/5.tappAS_HO.pdf
 
