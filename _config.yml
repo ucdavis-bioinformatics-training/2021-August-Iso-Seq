@@ -55,6 +55,14 @@ navigation:
   - title: Tutorial
     url: ./pdfs/uc_davis_isoseq_workshop_tama_v1.pdf
 
+  - heading: Fairlie Reese
+  - title: Long-read RNA-seq transcriptomic analysis with TALON and Swan
+    url: https://raw.githubusercontent.com/ucdavis-bioinformatics-training/ucdavis-bioinformatics-training.presentations/master/isoseq/Fairlie_210830_ucd_workshop.pdf
+  - title: Tutorial
+    url: ./fairlie/swan
+  - title: Download ipython notebook
+    url: https://raw.githubusercontent.com/fairliereese/210830_ucd_workshop/master/swan.ipynb
+
   - heading: Conesa Lab
   - title: IsoAnnot and IsoAnnotLite
     url: ./canesa/FIT
