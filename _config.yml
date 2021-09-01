@@ -42,14 +42,10 @@ navigation:
     url: pacbio_data/pacbio_data
 
   - heading: Dr. Liz Tseng
-  - title: SMRT Sequencing - How it Works
-    url: https://raw.githubusercontent.com/ucdavis-bioinformatics-training/ucdavis-bioinformatics-training.presentations/master/isoseq/liz/1-Liz-Intro%20to%20PacBio%20and%20IsoSeq.pdf
+  - title: Introduction to PacBio and Iso-Seq
+    url: https://raw.githubusercontent.com/ucdavis-bioinformatics-training/ucdavis-bioinformatics-training.presentations/master/isoseq/liz/1-Liz-Intro-to-PacBio-and-IsoSeq-2021.pdf
   - title: Using the Iso-Seq Application on SMRT Link and BioConda
-    url: https://raw.githubusercontent.com/ucdavis-bioinformatics-training/ucdavis-bioinformatics-training.presentations/master/isoseq/liz/2-Liz-Iso-Seq%20with%20SL%20and%20BioConda.pdf
-  - title: IsoPhase - Isoform-Level Phasing
-    url: https://raw.githubusercontent.com/ucdavis-bioinformatics-training/ucdavis-bioinformatics-training.presentations/master/isoseq/liz/5-Liz-IsoPhase%20and%20Cogent.pdf
-  - title: Single-Cell RNA Sequencing using the Iso-Seq Method
-    url: https://raw.githubusercontent.com/ucdavis-bioinformatics-training/ucdavis-bioinformatics-training.presentations/master/isoseq/liz/6-Liz-Single%20Cell.pdf
+    url: https://raw.githubusercontent.com/ucdavis-bioinformatics-training/ucdavis-bioinformatics-training.presentations/master/isoseq/liz/2-Liz-IsoSeq-with-SL-and-BioConda-2021.pdf
   - title: Tutorial
     url: https://github.com/Magdoll/cDNA_Cupcake/wiki/Iso-Seq-Bioinformatics-Tutorial
 
