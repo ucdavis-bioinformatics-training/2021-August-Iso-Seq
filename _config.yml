@@ -74,8 +74,8 @@ navigation:
   - heading: ETC
   - title: Closing thoughts
     url: base/closing
-  - title: Workshop Photos
-    url: photos/photos
+  - title: Recordings
+    url: base/video
   - title: Github page
     url: https://github.com/ucdavis-bioinformatics-training/2021-August-Iso-Seq
   - title: Biocore website
